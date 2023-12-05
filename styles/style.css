@@ -1,0 +1,33 @@
+h1{
+    color: red;
+}
+
+
+.kutxe{
+    color: yellow;
+}
+.kaxeti{
+    color: yellow;
+}
+.svaneti{color: blue;
+}
+.P{
+    color: blue; text-align: left;
+}
+
+.სამეგრელო{
+   color: white;
+}
+.margalo{
+    color: white  ;
+}
+
+body{
+    background-color: pink;
+}
+p{
+text-align:start;
+}
+body{
+    background-image: url(3.jpg);
+}

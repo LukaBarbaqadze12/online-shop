@@ -1,0 +1,14 @@
+body{
+    background-image: url(background1.jpg);
+}
+
+.list ul li{
+
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
+}
+
+.list ul li a{
+    text-decoration: none;
+}
